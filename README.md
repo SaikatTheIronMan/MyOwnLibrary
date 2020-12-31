@@ -1,2 +1,2 @@
-# MyOwnLibrary
-Library which contains collision and bounceoff functions
+# p5.play-boilerplate
+Boiler plate for p5.play
